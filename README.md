@@ -6,12 +6,12 @@ The school board has notified Maria and her supervisor that the data for ninth g
 ## Results:
 
 ### How is the district summary affected?
-    ![District Summary](https://github.com/40super/School_District_Analysis/blob/main/Resources/District_Summary.png?raw=true)
+![District Summary](https://github.com/40super/School_District_Analysis/blob/main/Resources/District_Summary.png?raw=true)
     - The District Summary is affected because the number of students has changed as well as the average scores have been slightly changed as well.  
   
 ### How is the school summary affected?
-    ![Before](https://github.com/40super/School_District_Analysis/blob/main/Resources/THS_BEFORE.png?raw=true)
-    ![After](https://github.com/40super/School_District_Analysis/blob/main/Resources/THS_AFTER.png?raw=true)
+![Before](https://github.com/40super/School_District_Analysis/blob/main/Resources/THS_BEFORE.png?raw=true)
+![After](https://github.com/40super/School_District_Analysis/blob/main/Resources/THS_AFTER.png?raw=true)
     -  The school summary has been affected significantly when it comes to the average math score and percentage passed. Before ruling out the ninth grade class, the overall pecentage was around 60 percent but after ruling it out all score were significantly increased bringing Thomas High School to the top five.
   
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
